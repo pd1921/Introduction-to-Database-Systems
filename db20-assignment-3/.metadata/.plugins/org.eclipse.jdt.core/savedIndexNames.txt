@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/home/ho/nthu/database/assignment/db20-assignment-3/.metadata/.plugins/org.eclipse.jdt.core
+3888251512.index
+1380928876.index
+2799458607.index
+3769848483.index
+2428072219.index
+2752787267.index
+646308851.index

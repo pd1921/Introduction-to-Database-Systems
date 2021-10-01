@@ -1,0 +1,1 @@
+time(sec), throughput(txs), avg_latency(MicroSecond), min(MicroSecond), max(MicroSecond), 25th_lat(MicroSecond), median_lat(MicroSecond), 75th_lat(MicroSecond)
